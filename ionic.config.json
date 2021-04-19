@@ -1,0 +1,7 @@
+{
+  "name": "chauffageTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
